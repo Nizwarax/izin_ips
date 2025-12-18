@@ -10,3 +10,4 @@
 ### test lifetime 103.217.145.100
 
 ### Kanjut 2026-01-17 1.1.1.1
+### Gtn lifetime 1.2.3.4
