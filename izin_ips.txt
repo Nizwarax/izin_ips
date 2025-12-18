@@ -6,6 +6,6 @@
 ### dev lifetime 110.232.84.134
 ### killer 2025-12-17 47.84.45.196
 ### LX7 2026-01-17 43.218.42.65
-### WIBUUDP lifetime 103.148.195.164
+### UDPWIBU lifetime 103.148.195.164
 ### test lifetime 103.217.145.100
 ### 
