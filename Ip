@@ -1,1 +1,3 @@
-###ipvpn###
+### Format:
+###<IP_VPS> <USERNAME> <TANGGAL_EXPIRED> <TANGGAL_EXPIRED>
+### 1.1.1.1 gtn 2025-01-31 2025-01-31
